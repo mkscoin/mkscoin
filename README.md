@@ -1,23 +1,27 @@
-
-What is Mkscoin?
+Makescoin Core integration/staging tree
 =====================================
+
+
+
+What is Makescoin?
+------------------
 
 The total amount of network original token MKS issued is 6.88 million, the total amount of mining and destruction is 6.8 million, and the total amount of circulation in the whole network is 80000.
 
-Mkscoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Mkscoin uses peer-to-peer technology to operate
+Makescoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Makescoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Mkscoin Core is the name of open source
+out collectively by the network. Makescoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Mkscoin Core software.
+the Makescoin Core software.
 
 
 License
 -------
 
-Mkscoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Makescoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 
@@ -27,7 +31,7 @@ Development Process
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. 
 
-Developer IRC can be found on Freenode at #Mkscoin-dev.
+Developer IRC can be found on Freenode at #Makescoin-dev.
 
 
 Testing
