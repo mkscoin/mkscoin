@@ -1,3 +1,4 @@
+<img src="i.png" align="center" title="logo" width = "100" >
 
 What is Mkscoin?
 =====================================
