@@ -1,9 +1,8 @@
-<img src="i.png" align="center" title="logo" width = "100" >
 
 What is Mkscoin?
 =====================================
 
-The total amount of network original token DAK issued is 6.88 million, the total amount of mining and destruction is 6.8 million, and the total amount of circulation in the whole network is 80000.
+The total amount of network original token MKS issued is 6.88 million, the total amount of mining and destruction is 6.8 million, and the total amount of circulation in the whole network is 80000.
 
 Mkscoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Mkscoin uses peer-to-peer technology to operate
@@ -64,11 +63,11 @@ not straightforward.
 
 ### Contributing
 
-The best way to submit feedback and report bugs is to [open a GitHub issue](https://github.com/Dakarwallet/wallet-core/issues/new).
-If you want to contribute code please see [Contributing](https://developer.Dakarwallet.com/wallet-core/contributing).
-If you want to add support for a new blockchain also see [Adding Support for a New Blockchain](https://developer.Dakarwallet.com/wallet-core/newblockchain), make sure you have read the [requirements](https://developer.Dakarwallet.com/wallet-core/newblockchain#requirements) section.
+The best way to submit feedback and report bugs is to [open a GitHub issue](https://github.com/Mksarwallet/wallet-core/issues/new).
+If you want to contribute code please see [Contributing](https://developer.Mksarwallet.com/wallet-core/contributing).
+If you want to add support for a new blockchain also see [Adding Support for a New Blockchain](https://developer.Mksarwallet.com/wallet-core/newblockchain), make sure you have read the [requirements](https://developer.Mksarwallet.com/wallet-core/newblockchain#requirements) section.
 
 Thanks to all the people who contribute.
-<a href="https://github.com/Dakarwallet/wallet-core/graphs/contributors"><img src="https://opencollective.com/wallet-core/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Mksarwallet/wallet-core/graphs/contributors"><img src="https://opencollective.com/wallet-core/contributors.svg?width=890&button=false" /></a>
 
 
